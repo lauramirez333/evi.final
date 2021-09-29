@@ -94,6 +94,7 @@ const students = [
      <figcaption class="blockquote-footer">
        <br></br>
         <cite title="Source Title">ADSI:2184573</cite>
+        <p> Hola </p>
         <br></br>
      </figcaption>
    </figure>
